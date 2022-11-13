@@ -1,2 +1,4 @@
 D: Hello God!
 S: Hello Dhruv!
+S: Ok, I've to go bye! 
+D: Bye! 
